@@ -43,7 +43,7 @@ cd cv-yevhenii-shyianov
 ## 📁 Folder Structure
 
 ```
-cv/
+cv-yevhenii-shyianov/
 ├── css/
 │   └── styles.css        # Main stylesheet
 ├── images/
